@@ -1,1 +1,5 @@
-a
+git init
+git remote add "name" "enlacegithub"
+git add .
+git commit -m 'mensaje'
+git push "name" master
